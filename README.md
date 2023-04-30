@@ -1,5 +1,7 @@
 # Node Sentiment Analysis
 
+This is a stretch project of UpLeveled.io
+
 ## Define input source
 
 You can call the API via command line, e.g.:
